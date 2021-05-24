@@ -1,0 +1,34 @@
+{
+    "type": "Cart",
+    "id": "38e0e6b9-3315-4180-a599-01c40e88f82c",
+    "version": 1,
+    "lastMessageSequenceNumber": 1,
+    "createdAt": "2021-05-19T08:28:25.015Z",
+    "lastModifiedAt": "2021-05-19T08:28:25.015Z",
+    "lastModifiedBy": {
+        "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+        "isPlatformClient": false
+    },
+    "createdBy": {
+        "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+        "isPlatformClient": false
+    },
+    "lineItems": [],
+    "cartState": "Active",
+    "totalPrice": {
+        "type": "centPrecision",
+        "currencyCode": "EUR",
+        "centAmount": 0,
+        "fractionDigits": 2
+    },
+    "customLineItems": [],
+    "discountCodes": [],
+    "inventoryMode": "None",
+    "taxMode": "Platform",
+    "taxRoundingMode": "HalfEven",
+    "taxCalculationMode": "LineItemLevel",
+    "deleteDaysAfterLastModification": 90,
+    "refusedGifts": [],
+    "origin": "Customer",
+    "itemShippingAddresses": []
+}
