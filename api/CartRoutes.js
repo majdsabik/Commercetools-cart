@@ -5,7 +5,7 @@ const Controller = new CartController();
 const routes = express.Router();
 
 routes.get('/carts', Controller.list);
-routes.get('/carts/find/', Controller.find);
+routes.get('/carts/find', Controller.find);
 routes.get('/carts/:id', Controller.show);
 routes.post('/carts', Controller.create);
 routes.post('/carts/:id', Controller.update);
